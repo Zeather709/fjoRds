@@ -11,7 +11,7 @@
 #' @author Heather Zurel
 #' @title Fjord Finder
 #' 
-#' @example  fjord_finder("Sognefjord")
+#' @example fjord_finder("Sognefjord")
 #' 
 fjord_finder <- function(name) {
   
